@@ -14,3 +14,6 @@ This repository contains:
 - Each case study is developed in its own GitHub repository
 - Students work via issues, branches, and pull requests
 - This repo remains stable throughout the semester
+
+## Case Studies
+See: [showcase.md](showcase.md)
